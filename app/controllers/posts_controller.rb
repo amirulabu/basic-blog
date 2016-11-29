@@ -38,6 +38,7 @@ class PostsController < ApplicationController
 			flash[:alert] = "Error updating post!"
 			render :new
 		end
+	end
 
 	# Show action shows the individual post after retrieving the id
 	def show
