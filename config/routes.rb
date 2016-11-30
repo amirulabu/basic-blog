@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :admins
   mount Ckeditor::Engine => '/ckeditor'
   root to: "posts#index" #setting the root of website to posts/index
 
