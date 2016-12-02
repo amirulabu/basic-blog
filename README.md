@@ -1,24 +1,12 @@
 # This is a basic blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is following a tutorial i found at scotch.io. 
 
-Things you may want to cover:
+[part 1](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
+[part 2](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-2)
 
-* Ruby version
+Using Rails 5
 
-* System dependencies
+Bugs
+* cannot submit post to database
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
